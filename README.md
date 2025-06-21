@@ -1,2 +1,3 @@
-# goPadv1
-my first ever hack club project! inspired by the one and only hackpad
+# The 4-Key GoPad
+Hello! This is my submission for hackpad! This was made for Hack Club's highway to undercity.
+## Features
